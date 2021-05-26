@@ -1,26 +1,10 @@
-My name is Vivek Khandelwal. 👋
-          
+# Hi, I'm Vivek 👋🏾 👩🏾‍💻
 
-I am a 19 year old Developer,ECE Student, Content Creator,Tech Geek from India. I'm in a 2nd year student at NIT HAMIRPUR . I am passionate about java, flutter, When I'm not developing and building things, you can find me on instagram page @flutter.stack, watching tech videos and searching random stuff on internet,. But most of my days are spent working on my personal projects.
-
-🔭 I’m currently working on flutter project.
-🌱 I’m currently learning Flutter.
-👯 I’m looking to collaborate on Instagram
-💬 Ask me about java and flutter.
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+I am a 19 year old Developer,ECE Student, Content Creator,Tech Geek from India. I'm in a 2nd year student at NIT HAMIRPUR . I am passionate about java, flutter,you can find me on instagram page @flutter.stack,Most of my days are spent working on my personal projects.
 
 
-How to create a Telegram bot using Flutter?
-💻 What i am currently/done working on
-Telegram Bot 🚀
-Medium Clone app 🚀 coming soon
-Click here for other projects
-📫 Where to find me
-Twitter 🐤
-Instagram 😎
-LinkedIn 👨💼
-Website 😏🔗
-Blog 🤓💻
-Medium 😏
-Dev.to 🔨✒
-Stackoverflow 💌
-BugBounty Profile🐞
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+<!-- - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾 -->
+- Posting Tutorial on Instagram for Community <a href="https://www.instagram.com/flutter.stack/">FlutterStack</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/vivekkhandelwal55/">LinkedIn</a> 💼
