@@ -1,6 +1,6 @@
 # Hi, I'm Vivek 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/vivekdusad/vivekdusad/blob/main/Vivek%20Khandelwal.png" alt="banner that says Vivek Khandelwal - Flutter Developer, content creator alongside a cartoon illustration of Vivek">
 I am a 19 year old Developer,ECE Student, Content Creator,Tech Geek from India. I'm in a 2nd year student at NIT HAMIRPUR . I am passionate about java, flutter,you can find me on instagram page @flutter.stack,Most of my days are spent working on my personal projects.
 
 
