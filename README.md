@@ -14,7 +14,7 @@ I am a 19 year old Developer,ECE Student, Content Creator,Tech Geek from India. 
 <p align="center">
 <!-- <a href="https://github.com/Yola21"> -->
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivekdusad&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayush478&layout=compact&langs_count=8&theme=material-palenight"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivekdusad&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>
 </p>
 
