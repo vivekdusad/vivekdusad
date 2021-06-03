@@ -19,6 +19,7 @@ I am a 19 year old Developer,ECE Student, Content Creator,Tech Geek from India. 
 </p>
 
 <br />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekdusad&" alt="vivekdusad" /></p>
 ---
 <!-- ### 🤝🏻 &nbsp;Connect with Me
 
