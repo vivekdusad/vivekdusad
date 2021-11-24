@@ -30,4 +30,11 @@ I am a 19 year old Developer,ECE Student, Content Creator,Tech Geek from India. 
 <a href="https://www.instagram.com/_mr.ayush47/"><img src="https://img.shields.io/badge/-_mr.ayush47-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/ayush.sunariya.9/"><img src="https://img.shields.io/badge/-Ayush Sunariya-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p> -->
+<p align="center">
+<a href="https://github.com/ayush478">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivekdusad&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayush478&count_private=true&layout=compact&langs_count=8&theme=material-palenight"/>
+</a>
+ 
+</p>
 
