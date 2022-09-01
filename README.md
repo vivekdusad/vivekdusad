@@ -32,7 +32,7 @@ This is Vivek Khandelwal, final year Student at Nit Hamirpur pursuing B.Tech Und
 > ## Personal Projects
 
 ### Groffle <a href="https://play.google.com/store/apps/details?id=com.Groffle">Play Store Link</a>
-<li>Tech Stack : Flutter, Node-JS, Express-JS, MongoDB, Firebase,Docker***
+<li>Tech Stack : Flutter, Node-JS, Express-JS, MongoDB, Firebase,Docker
 <li>Has Downloads over more than 1.5K.
 <li>Backend Deployed on AWS.
 <li>Used Firebase Crashlaytics Service for Reporting Errors in User App.
